@@ -2,7 +2,12 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Will You Be My Valentine?",
+  title: "ندى جمعة ❤️
+إنتي أجمل هدية من ربنا ليا
+وأحسن حد دخل حياتي
+إنتي كل حاجة وأغلى حاجة تنور عنيا
+وإنتي دايمًا جنبي ومعايا
+يا ست البنات 💖",
 };
 
 export default function RootLayout({
